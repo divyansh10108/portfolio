@@ -14,7 +14,7 @@ const Footer = () => {
           © 2023 Divyansh Gaba<a href="/" className="hover:underline"></a>
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
-          <a href="https://github.com/divyansh10108" rel="" target="_blank">
+          <a href="https://github.com/divyansh10108" rel="noreferrer" target="_blank">
             <AiOutlineGithub
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
               size={30}
@@ -22,8 +22,8 @@ const Footer = () => {
           </a>
           <a
             href="https://twitter.com/slimey_butter"
-            rel=""
-            target=""
+            rel="noreferrer"
+            target="_blank"
           >
             <AiOutlineTwitter
               className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
