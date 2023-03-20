@@ -21,7 +21,7 @@ const softSkills = [
 
 const About = () => {
   return (
-    <section id="about">About
+    <section id="about">
     <div className="my-12 pb-12 md:pt-16 md:pb-48">
         <h1 className="text-center font-bold text-4xl">
           About Me
@@ -35,9 +35,9 @@ const About = () => {
             </h1>
 
             <p>
-             Hi, my name is Hosna and I am a{" "}
+             Hi, my name is Divyansh and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>
-              <span className="font-bold">{" driven"}</span> Computer Science 
+              <span className="font-bold">{" driven"}</span> Computer Science Student
               based in Delhi ,India
             </p>
             <br/>
@@ -48,7 +48,7 @@ const About = () => {
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing videogames, traveling, to making YouTube videos,
+              From reading, playing videogames, traveling, to competetive programming,
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
